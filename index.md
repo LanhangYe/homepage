@@ -46,7 +46,7 @@ For the full and newest publications [CLICK HERE](https://www.webofscience.com/w
   [[PDF](https://ieeexplore.ieee.org/abstract/document/8569975)]
 - **Bayesian Mixture Model to Estimate Freeway Travel Time under Low-Frequency Probe Data**
   <br>
-  Hyungjoo Kim, **Lanhang Ye**
+  Hyungjoo Kim#, **Lanhang Ye**
   <br>
   Applied Sciences 12(2022): 6483.
   <br>
