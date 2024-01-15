@@ -22,23 +22,23 @@ For the full and newest publications [CLICK HERE](https://scholar.google.com/cit
   <br>
   Physica A: Statistical Mechanics and its Applications 490 (2018): 269-277.
   <br>
-  [[PDF](https://www.sciencedirect.com/science/article/pii/S2773153722000184)] [[Code](https://github.com/BIT-XJY/RL-based-Transferable-EMS)] (# donates equal contributions) -->
+  [[PDF](https://www.sciencedirect.com/science/article/pii/S0378437117307392)] 
 
 - **Impact of Dedicated Lanes for Connected and Autonomous Vehicle on Traffic Flow Throughput**
   <br>
   **Lanhang Ye#**, Toshiyuki Yamamoto,
   <br>
- Physica A: Statistical Mechanics and its Applications. **IEEE T-IE 2022**.
+ Physica A: Statistical Mechanics and its Applications 512 (2018): 588-597.
   <br>
-  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9700778)] 
+  [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0378437118310252)] 
   
-- **Interactive Behaviour Prediction for Heterogeneous Traffic Participants In the Urban Road: A Graph Neural Network-based Multi-task Learning Framework**
+- **Evaluating the Impact of Connected and Autonomous Vehicles on Traffic Safety**
   <br>
-  **Zirui Li**, Jianwei Gong, Chao Lu, Yangtian Yi,
+  **Lanhang Ye#**, Toshiyuki Yamamoto,
   <br>
-  IEEE/ASME Transactions on Mechatronics. **IEEE/ASME T-MECH 2021**.
+   Physica A: Statistical Mechanics and its Applications 526, 121009.
   <br>
-  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9406384)]
+  [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0378437119306181)]
   
 
 
