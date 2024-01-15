@@ -71,7 +71,7 @@ For the full publications [CLICK HERE](https://www.webofscience.com/wos/author/r
 - **Heterogeneous Traffic flow dynamics under various penetration rates of connected and autonomous vehicle** 21st IEEE International Conference on Intelligent Transportation Systems, Hawaii, USA, 2018.
 - **Integrating Personal Rapid Transit into Existing Traffic Systems: Feasibility, Simulation, and Optimization** International Conference on Materials and Systems for Sustainability, Nagoya, Japan, 2023.
 
-## Services
+## Academic services
 ### Reviewer
 - Physica A: Statistical Mechanics and its Applications
 - Transportation Research Part B: Methodological
