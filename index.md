@@ -24,11 +24,11 @@ For the full and newest publications [CLICK HERE](https://scholar.google.com/cit
   <br>
   [[PDF](https://www.sciencedirect.com/science/article/pii/S2773153722000184)] [[Code](https://github.com/BIT-XJY/RL-based-Transferable-EMS)] (# donates equal contributions) -->
 
-- **Personalized Driver Braking Behavior Modelling in the Car-following Scenario: An Importance Weight-based Transfer Learning Approach**
+<!-- - **Impact of dedicated lanes for connected and autonomous vehicle on traffic flow throughput**
   <br>
-  **Zirui Li**, Jianwei Gong, Chao Lu, Jinghang Li,
+  **Lanhang Ye#**, Toshiyuki Yamamoto,
   <br>
-  IEEE Transactions on Industrial Electronics	. **IEEE T-IE 2022**.
+ Physica A: Statistical Mechanics and its Applications. **IEEE T-IE 2022**.
   <br>
   [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9700778)] 
 
