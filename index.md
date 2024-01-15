@@ -4,15 +4,7 @@ layout: homepage
 
 ## About Me
 
-Zirui Li received the 
-B.S. degree from the Beijing Institute of Technology (BIT), Beijing, China, in 2019, 
-where he is currently pursuing the Ph.D. degree in mechanical engineering under the supervision of Prof. Jianwei Gong. Now, Zirui is also a researcher in TU Dresden.
-From June, 2021 to July, 2022, 
-he was a visiting researcher in Delft University of Technology (TU Delft) with CSC funding from China 
-under the supervision of Prof. [Bart van Arem](https://www.tudelft.nl/en/ceg/about-faculty/departments/transport-planning/staff/personal-pages/arem-b-van/), Prof. [Victor Knoop](https://www.tudelft.nl/citg/over-faculteit/afdelingen/transport-planning/staff/persoonlijke-paginas/knoop-vl) and Prof. [Meng Wang](https://tu-dresden.de/bu/verkehr/vis/vpa/die-professur/head-of-chair). 
-From Aug, 2022. He is the visiting researcher 
-in the Chair of [Traffic Process Automation](https://tu-dresden.de/bu/verkehr/vis/vpa/die-professur/gastforscher-innen) at the Faculty of Transportation and Traffic Sciences "Friedrich List" of the TU Dresden under the supervision of Prof. [Meng Wang](https://tu-dresden.de/bu/verkehr/vis/vpa/die-professur/head-of-chair). His research focuses on interactive behavior modeling, risk assessment and motion planning of automated vehicles. Any interest on my work you can drop me email (zirui.li@tu-dresden.de)
-
+Lanhang Ye obtained his Ph.D. degree from Nagoya University (NU), Japan, in 2019. From January 2020 to December 2022, he served as a Lecturer at Zhejiang Normal University (ZJNU). Since March 2023, he has been working as a researcher at the Institute of Materials and Systems for Sustainability, Nagoya University.
 
 ## Research Interests
 
@@ -161,12 +153,6 @@ For the full and newest publications [CLICK HERE](https://scholar.google.com/cit
 - Organising committee, [MFTS 2022](https://tu-dresden.de/bu/verkehr/veranstaltungen/mfts-2022/program)
 - Chair, workshop on **Social and Interactive Behavior Modelling in Intelligent Transportation Systems** at [IEEE ITSC 2021](https://sites.google.com/view/itsc2021-social/).
 
-### Membership
-- IEEE student member
-- SAE China student member
-- ITSS member
-<!-- - IEEE ITSS Young Professionals Travelling Fellowship (2023)  -->
-
 
 ## Talks
 - Dec. 2022 **Interactive Behavior Modeling for Vulnerable Road Users with Risk-taking Styles in Urban Scenarios: A Heterogeneous Graph Learning Approach** at IEEE ITSC 2022 workshop.
@@ -180,23 +166,9 @@ For the full and newest publications [CLICK HERE](https://scholar.google.com/cit
 - June. 2019, **Transferable Driver Behavior Learning via Distribution Adaption in the Lane Change Scenario** at IEEE IV 2019.
 - June. 2018, **Development and Evaluation of Two Learning-Based Personalized Driver Model for Pure pursuit Path-Tracking Behaviors** at IEEE IV 2018.
 
-## Awards
-- IEEE ITSS Young Professionals Travelling Fellowship (2023).
-- Two-Year Graduate Student Fellowship of China Scholarship Councils (CSC), 2021-2023.
-- Excellent Graduate Study Scholarship, 2021.
-- National Scholarship for College Student, Ministry of Education of China, 2021.
-- Champions for Formula Student Driverless China, 2017&2018.
-- Innovation Scholarship first prize, Ministry of Industry and Information Technology, 2018.
 
 
-## Mentorship Experience
-- Cheng Gong, Beijing Institute of Technology
-- Yunlong Lin, Beijing Institute of Technology
-- Chenxu Wen, Beijing Institute of Technology
-- Fanyi Wei, TU Dresden
-- Haowen Wang, Shanghai Jiaotong University
-- Hailong Gong, Beijing Institute of Technology
-- Lianzhen Wei,Beijing Institute of Technology
+
 - Yangtian Yi, Beijing Institute of Technology
 - Xianqi He, Beijing Institute of Technology
 - jingyi Xu, Beijing Institute of Technology
