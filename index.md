@@ -16,7 +16,7 @@ Lanhang Ye obtained his Ph.D. degree from Nagoya University (NU), Japan, in 2019
 
 For the full and newest publications [CLICK HERE](https://scholar.google.com/citations?user=3kXV9zcAAAAJ&hl=en). 
 
-<!-- - **Modeling Connected and Autonomous Vehicles in Heterogeneous Traffic Flow**
+- **Modeling Connected and Autonomous Vehicles in Heterogeneous Traffic Flow**
   <br>
  **Lanhang Ye#**, Toshiyuki Yamamoto,
   <br>
@@ -24,23 +24,14 @@ For the full and newest publications [CLICK HERE](https://scholar.google.com/cit
   <br>
   [[PDF](https://www.sciencedirect.com/science/article/pii/S2773153722000184)] [[Code](https://github.com/BIT-XJY/RL-based-Transferable-EMS)] (# donates equal contributions) -->
 
-<!-- - **Impact of dedicated lanes for connected and autonomous vehicle on traffic flow throughput**
+- **Impact of Dedicated Lanes for Connected and Autonomous Vehicle on Traffic Flow Throughput**
   <br>
   **Lanhang Ye#**, Toshiyuki Yamamoto,
   <br>
  Physica A: Statistical Mechanics and its Applications. **IEEE T-IE 2022**.
   <br>
   [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9700778)] 
-
-<!-- - **Graph Convolution-Based Deep Reinforcement Learning for Multi-Agent Decision-Making in Mixed Traffic environments**
-  <br>
-  Qi Liu, **Zirui Li#**,  Jingda Wu, Xueyuan Li,
-  <br>
-  The 25th IEEE International Conference on Intelligent Transportation Systems. **IEEE ITSC 2022**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2201.12776.pdf)] [[Code](https://github.com/Jacklinkk/TorchGRL)] <strong><i style="color:#e74d3c">Workshop oral presentation</i></strong> -->
   
-
 - **Interactive Behaviour Prediction for Heterogeneous Traffic Participants In the Urban Road: A Graph Neural Network-based Multi-task Learning Framework**
   <br>
   **Zirui Li**, Jianwei Gong, Chao Lu, Yangtian Yi,
