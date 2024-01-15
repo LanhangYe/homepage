@@ -14,7 +14,7 @@ Lanhang Ye obtained his Ph.D. degree from Nagoya University (NU), Japan, in 2019
 
 ## Publications
 
-For the full and newest publications [CLICK HERE](https://scholar.google.com/citations?user=3kXV9zcAAAAJ&hl=en). 
+For the full and newest publications [CLICK HERE](https://www.webofscience.com/wos/author/record/827842?state=%7B%7D). 
 
 - **Modeling Connected and Autonomous Vehicles in Heterogeneous Traffic Flow**
   <br>
@@ -60,7 +60,7 @@ For the full and newest publications [CLICK HERE](https://scholar.google.com/cit
 - **Modeling connected and autonomous vehicles in heterogeneous traffic flow**  Traffic & Granular Flow, Washington, USA, 2017.
 - **Evaluation of safety with mixed traffic of connected autonomous vehicles and conventional vehicles** 57th Infrastructure Planning Conference, Tokyo, Japan, 2018.
 - **Heterogeneous Traffic flow dynamics under various penetration rates of connected and autonomous vehicle** 21st IEEE International Conference on Intelligent Transportation Systems, Hawaii, USA, 2018.
-- **Integrating Personal Rapid Transit into Existing Traffic Systems: Feasibility, Simulation and Optimization** International Conference on Materials and Systems for Sustainability 2023.
+- **Integrating Personal Rapid Transit into Existing Traffic Systems: Feasibility, Simulation, and Optimization** International Conference on Materials and Systems for Sustainability, Nagoya, Japan, 2023.
 
 ## Services
 ### Reviewer
