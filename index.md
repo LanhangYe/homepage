@@ -55,6 +55,12 @@ For the full and newest publications [CLICK HERE](https://scholar.google.com/cit
   Applied Sciences 12(2022): 6483.
   <br>
   [[PDF](https://www.mdpi.com/2076-3417/12/13/6483)]
+  
+## Presentations
+- **Modeling connected and autonomous vehicles in heterogeneous traffic flow**  Traffic & Granular Flow, Washington, USA, 2017.
+- **Evaluation of safety with mixed traffic of connected autonomous vehicles and conventional vehicles** 57th Infrastructure Planning Conference, Tokyo, Japan, 2018.
+- **Heterogeneous Traffic flow dynamics under various penetration rates of connected and autonomous vehicle** 21st IEEE International Conference on Intelligent Transportation Systems, Hawaii, USA, 2018.
+- **Integrating Personal Rapid Transit into Existing Traffic Systems: Feasibility, Simulation and Optimization** International Conference on Materials and Systems for Sustainability 2023.
 
 ## Services
 ### Reviewer
@@ -87,31 +93,3 @@ For the full and newest publications [CLICK HERE](https://scholar.google.com/cit
 - IEEE Access
 
 
-### Chair/Co-chairs
-- Co-chair, workshop on **Cooperative Decision-making for Connected and Automated Vehicles in Intelligent Transportation Systems** at IEEE ITSC 2023
-- Associate Editor for IEEE IV 2023
-- Chair, workshop on **Social, interactive and safe behaviors for AVs: benchmarks, models and applications** at [IEEE IV 2023](https://sites.google.com/view/iv2023-social/%E9%A6%96%E9%A1%B5). 
-- Organising committee, [MFTS 2022](https://tu-dresden.de/bu/verkehr/veranstaltungen/mfts-2022/program)
-- Chair, workshop on **Social and Interactive Behavior Modelling in Intelligent Transportation Systems** at [IEEE ITSC 2021](https://sites.google.com/view/itsc2021-social/).
-
-
-## Talks
-- Dec. 2022 **Interactive Behavior Modeling for Vulnerable Road Users with Risk-taking Styles in Urban Scenarios: A Heterogeneous Graph Learning Approach** at IEEE ITSC 2022 workshop.
-- Dec. 2022 **Towards Safe, efficient and Co-operative Decision-making for CAVs in Mixed Autonomy: An Attention-Enhanced Graphic Reinforcement Learning Approach** at MFTS 2022.
-- Nov. 2022 **Interactive Behavior Modeling for Vulnerable Road Users with Risk-taking Styles in Urban Scenarios: A Heterogeneous Graph Learning Approach** at IEEE ITSC 2022 workshop **Cooperative and Automated Driving**.
-- Oct. 2022, **Graph Convolution-Based Deep Reinforcement Learning for Multi-Agent Decision-Making in Mixed Traffic environments** at IEEE ITSC 2022.
-- June. 2022, **Interactive Behavior Modeling for Vulnerable Road Users with Risk-taking Styles in Urban Scenarios: A Heterogeneous Graph Learning Approach** at the Chair of Traffic Process Automation
- TU Dresden. 
-- Oct. 2021, **Defining the Interactive Behavior: A Mutual Information-based Approach** at hEAT Lab, TU Delft.
-- June. 2021, **Graph Neural Network for Interactive behaviours: Modelling, Risk Assessment and Multi-task Prediction** at Traffic Dynamics, Modelling and Control lab, TU Delft. -April. 2021, **Graph Neural Network for Interactive behaviours: Modelling, Risk Assessment and Multi-task Prediction** at hEAT Lab, TU Delft.
-- June. 2019, **Transferable Driver Behavior Learning via Distribution Adaption in the Lane Change Scenario** at IEEE IV 2019.
-- June. 2018, **Development and Evaluation of Two Learning-Based Personalized Driver Model for Pure pursuit Path-Tracking Behaviors** at IEEE IV 2018.
-
-
-
-
-- Yangtian Yi, Beijing Institute of Technology
-- Xianqi He, Beijing Institute of Technology
-- jingyi Xu, Beijing Institute of Technology
-- Yingqi Tan, Beijing Institute of Technology
-- Tanran Chen, Beijing Institute of Technology
