@@ -4,17 +4,30 @@ layout: homepage
 
 ## About Me
 
-Lanhang Ye obtained his Ph.D. degree from Nagoya University (NU), Japan, in 2019. From January 2020 to December 2022, he served as a Lecturer at Zhejiang Normal University (ZJNU). Since March 2023, he has been working as a researcher at the Institute of Materials and Systems for Sustainability, Nagoya University.
+Lanhang Ye obtained his Ph.D. degree from Nagoya University (NU), Japan, in 2019. His interests focus primarily on studying traffic systems incorporating emerging automotive technologies, developing simplified traffic flow models incorporating these technologies for modeling possible future scenarios, evaluating the potential impact on future traffic systems, providing management recommendations for better accommodating them in the current traffic system, and further exploring future traffic flow theory in the era of Connected and Automated Vehicles. He is currently working as a researcher at the Institute of Materials and Systems for Sustainability, Nagoya University, Japan.
 
 ## Research Interests
 
-- **Data-driven interactive behaviour modelling for VRUs** 
-- **The integration of behaviour prediction and motion planning for AVs**
-- **Interactive behaviour definition, measurement and  detection**
+- **Connected and Autonomous Vehicle** 
+- **Traffic Flow Modelling**
+- **Traffic Simulation**
+- **Sustainable Mobility**
+
+## Academic Background
+
+- D. Engr., Nagoya University, Japan, 2019
+- M. Engr., Hebei University of Technology, China, 2016
+- B. Engr., Shijiazhuang Tiedao University, China, 2013
+
+## Professional Experience
+
+- 2023.04~ Researcher at Institute of Materials and Systems for Sustainability, Nagoya University, Japan
+- 2023.03~2023.04 Researcher at Global Research Institute for Mobility, Nagoya University, Japan
+- 2020.01~2023.02 Lecturer at Department of Transportation, Zhejiang Normal University, China
 
 ## Publications
 
-For the full and newest publications [CLICK HERE](https://www.webofscience.com/wos/author/record/827842?state=%7B%7D). 
+For the full publications [CLICK HERE](https://www.webofscience.com/wos/author/record/827842?state=%7B%7D). 
 
 - **Modeling Connected and Autonomous Vehicles in Heterogeneous Traffic Flow**
   <br>
