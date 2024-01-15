@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Lanhang Ye obtained his Ph.D. degree from Nagoya University (NU), Japan, in 2019. His interests focus primarily on studying traffic systems incorporating emerging automotive technologies, developing simplified traffic flow models incorporating these technologies for modeling possible future scenarios, evaluating the potential impact on future traffic systems, providing management recommendations for better accommodating them in the current traffic system, and further exploring future traffic flow theory in the era of Connected and Automated Vehicles. He is currently working as a researcher at the Institute of Materials and Systems for Sustainability, Nagoya University, Japan.
+Lanhang Ye obtained his Ph.D. degree from Nagoya University (NU), Japan, in 2019. His primary research interest involves the study of traffic systems integrating emerging automotive technologies. He focuses on developing microscopic traffic flow models that incorporate these technologies to model potential future scenarios, evaluating the potential impact of these technologies on future traffic systems, providing management recommendations for their better integration into the current traffic system, and exploring traffic flow theory in the era of Connected and Automated Vehicles. Currently, he works as a researcher at the Institute of Materials and Systems for Sustainability at Nagoya University, Japan.
 
 ## Research Interests
 
