@@ -124,26 +124,33 @@ For the full and newest publications [CLICK HERE](https://scholar.google.com/cit
 
 ## Services
 ### Reviewer
-- IEEE Intelligent Vehicles Symposium 2018-2023.
-- IEEE International Conference on Intelligent Transportation Systems 2018-2023.
-- IEEE Transactions on Vehicular Technology.
-- IEEE Transactions on Intelligent Transportation Systems.
-- IEEE Transactions on Neural Networks and Learning Systems.
-- Frontiers of Information Technology & Electronic Engineering.
-- IEEE Transactions on Intelligent Vehicles.
-- eTransportation.
-- Geoscience and Remote Sensing Letters.
-- IET Intelligent Transport Systems.
-- Journal of Transportation Engineering, Part A.
-- Sensors.
-- Remote Sensing.
-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
-- IEEE International Conference on Unmanned Systems (ICUS).
-- IEEE International Conference on Robotics and Automation (ICRA).
-- Applied Sciences.
-- Machines.
-- Electronics.
-- Scientific report.
+- Physica A: Statistical Mechanics and its Applications
+- Transportation Research Part B: Methodological
+- Accident Analysis & Prevention
+- Transport Policy
+- IEEE Transactions on Intelligent Transportation Systems
+- IEEE Transactions on Intelligent Vehicles
+- IEEE Transactions on Knowledge and Data Engineering
+- IEEE Intelligent Transportation Systems Magazine
+- IEEE Transactions on Transportation Electrification
+- IEEE Vehicular Technology Magazine
+- IEEE Systems Journal
+- Expert Systems with Applications
+- Engineering Applications of Artificial Intelligence  
+- Simulation Modelling Practice and Theory
+- Transportmetrica A: Transport Science  
+- Transportmetrica B: Transport Dynamics
+- IET Intelligent Transport Systems
+- Journal of Advanced Transportation
+- Modern Physics Letters B
+- Chaos, Solitons & Fractals
+- Advances in Civil Engineering
+- Journal of Traffic and Transportation Engineering (English Edition)
+- Journal of Transportation Safety & Security
+- Applied Mathematical Modelling
+- Canadian Journal of Civil Engineering
+- Frontiers of Engineering Management
+- IEEE Access
 
 
 ### Chair/Co-chairs
