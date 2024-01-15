@@ -29,8 +29,7 @@ Lanhang Ye obtained his Ph.D. degree from Nagoya University (NU), Japan, in 2019
                           _English in Traffic Engineering_
 
 ## Publications
-
-For the full publications [CLICK HERE](https://www.webofscience.com/wos/author/record/827842?state=%7B%7D). 
+For the full publication records [Web of Science](https://www.webofscience.com/wos/author/record/827842?state=%7B%7D),[Orcid](https://orcid.org/my-orcid?orcid=0000-0002-4821-1072), [ResearchGate](https://www.researchgate.net/profile/Lanhang-Ye). 
 
 - **Modeling Connected and Autonomous Vehicles in Heterogeneous Traffic Flow**
   <br>
