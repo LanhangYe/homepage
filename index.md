@@ -14,13 +14,13 @@ Lanhang Ye obtained his Ph.D. degree from Nagoya University (NU), Japan, in 2019
 
 ## publications
 
-For the full and newest publications [CLICK HERE](https://scholar.google.com/citations?user=nCHChhsAAAAJ&hl=zh-CN). 
+For the full and newest publications [CLICK HERE](https://scholar.google.com/citations?user=3kXV9zcAAAAJ&hl=en). 
 
-<!-- - **A Transferable Energy Management Strategy for Hybrid Electric Vehicles via Dueling Deep Deterministic Policy Gradient**
+<!-- - **Modeling Connected and Autonomous Vehicles in Heterogeneous Traffic Flow**
   <br>
-  Jingyi Xu#, **Zirui Li#**, Guodong Du, Qi Liu, Li Gao, Yanan Zhao,
+ **Lanhang Ye#**, Toshiyuki Yamamoto,
   <br>
-  Green Energy and Intelligent Transportation. **GEIT 2022**.
+  Physica A: Statistical Mechanics and its Applications 490 (2018): 269-277.
   <br>
   [[PDF](https://www.sciencedirect.com/science/article/pii/S2773153722000184)] [[Code](https://github.com/BIT-XJY/RL-based-Transferable-EMS)] (# donates equal contributions) -->
 
