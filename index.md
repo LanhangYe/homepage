@@ -57,7 +57,7 @@ For the full publications [CLICK HERE](https://www.webofscience.com/wos/author/r
   <br>
   **Lanhang Ye#**, Toshiyuki Yamamoto, Takayuki Morikawa
   <br>
-  2018 21st International Conference on Intelligent Transportation Systems (ITSC), Hawaii, USA, 2018.
+  21st International Conference on Intelligent Transportation Systems (ITSC), Hawaii, USA, 2018.
   <br>
   [[PDF](https://ieeexplore.ieee.org/abstract/document/8569975)]
 - **Bayesian Mixture Model to Estimate Freeway Travel Time under Low-Frequency Probe Data**
