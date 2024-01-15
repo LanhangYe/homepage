@@ -12,7 +12,7 @@ Lanhang Ye obtained his Ph.D. degree from Nagoya University (NU), Japan, in 2019
 - **The integration of behaviour prediction and motion planning for AVs**
 - **Interactive behaviour definition, measurement and  detection**
 
-## publications
+## Publications
 
 For the full and newest publications [CLICK HERE](https://scholar.google.com/citations?user=3kXV9zcAAAAJ&hl=en). 
 
@@ -26,7 +26,7 @@ For the full and newest publications [CLICK HERE](https://scholar.google.com/cit
 
 - **Impact of Dedicated Lanes for Connected and Autonomous Vehicle on Traffic Flow Throughput**
   <br>
-  **Lanhang Ye#**, Toshiyuki Yamamoto,
+  **Lanhang Ye#**, Toshiyuki Yamamoto
   <br>
  Physica A: Statistical Mechanics and its Applications 512 (2018): 588-597.
   <br>
@@ -34,60 +34,27 @@ For the full and newest publications [CLICK HERE](https://scholar.google.com/cit
   
 - **Evaluating the Impact of Connected and Autonomous Vehicles on Traffic Safety**
   <br>
-  **Lanhang Ye#**, Toshiyuki Yamamoto,
+  **Lanhang Ye#**, Toshiyuki Yamamoto
   <br>
    Physica A: Statistical Mechanics and its Applications 526, 121009.
   <br>
   [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0378437119306181)]
-  
 
+- **Heterogeneous Traffic Flow Dynamics under Various Penetration Rates of Connected and Autonomous Vehicle**
+  <br>
+  **Lanhang Ye#**, Toshiyuki Yamamoto, Takayuki Morikawa
+  <br>
+  2018 21st International Conference on Intelligent Transportation Systems (ITSC), Hawaii, USA, 2018.
+  <br>
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/8569975)]
 
-- **A Hierarchical Framework for Interactive Behaviour Prediction of Heterogeneous Traffic Participants based on Graph Neural Network**
+- **Bayesian Mixture Model to Estimate Freeway Travel Time under Low-Frequency Probe Data**
   <br>
-  **Zirui Li**, Chao Lu, Yangtian Yi, Jianwei Gong, 
+  Hyungjoo Kim, **Lanhang Ye**
   <br>
-  IEEE Transactions on Intelligent Transportation Systems. **IEEE T-ITS 2021**.
+  Applied Sciences 12(2022): 6483.
   <br>
-  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9468360)]
-  
-
-
-- **Importance Weighted Gaussian Process Regression for Transferable Driver Behaviour Learning in the Lane Change Scenario**
-  <br>
-  **Zirui Li**, Jianwei Gong,  Chao Lu, Junqiang Xi,
-  <br>
-  IEEE Transactions on Vehicular Technology. **IEEE T-VT 2020**.
-  <br>
-  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9186674)]
-  
-  
-
-<!-- - **A Comparative Study on Transferable Driver Behavior Learning Methods in the Lane-Changing Scenario**
-  <br>
-  Cheng Gong#, **Zirui Li#**,  Chao Lu, Fengqing  Hu,
-  <br>
-  The 22nd IEEE International Conference on Intelligent Transportation Systems	. **IEEE ITSC 2020**.
-  <br>
-  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8916986)] <strong><i style="color:#e74d3c">Workshop oral presentation</i></strong>(# donates equal contributions)
-  
-  
-- **Transferable Driver Behavior Learning via Distribution Adaption in the Lane Change Scenario**
-  <br>
-  **Zirui Li#**, Cheng Gong#,  Chao Lu, Jianwei Gong, Junyan Lu, Youzhi Xu, Fengqing  Hu,
-  <br>
-  IEEE Intelligent Vehicles Symposium. **IEEE IV's 2019**.
-  <br>
-  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8813781)] <strong><i style="color:#e74d3c">Workshop oral presentation</i></strong> (# donates equal contributions) -->
-
-
-<!-- - **Development and Evaluation of Two Learning-Based Personalized Driver Model for Pure pursuit Path-Tracking Behaviors**
-  <br>
-  **Zirui Li**, Boyang Wang,  Jianwei Gong, Tianyun Gao,  Chaolu, Gang Wang,
-  <br>
-  IEEE Intelligent Vehicles Symposium. **IEEE IV's 2018**.
-  <br>
-  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8500618)]  <strong><i style="color:#e74d3c">Workshop oral presentation</i></strong> -->
-  
+  [[PDF](https://www.mdpi.com/2076-3417/12/13/6483)]
 
 ## Services
 ### Reviewer
