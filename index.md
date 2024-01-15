@@ -12,31 +12,7 @@ Lanhang Ye obtained his Ph.D. degree from Nagoya University (NU), Japan, in 2019
 - **The integration of behaviour prediction and motion planning for AVs**
 - **Interactive behaviour definition, measurement and  detection**
 
-## News
-- **[Nov. 2023]** Zirui will give a talk at 2023 ITS WiE/YP Workshop & Research Forum with title **Towards integrating subjective and objective risks in human-centric automated driving** (20-21 Nov, 2023 @ Cairo, Egypt).
-- **[Nov. 2023]** One paper about Multi-stream Information Fusion in Low-illumination Scenarios is accepted by IEEE T-ITS. Find [code](https://github.com/TommyGong08/MSIF) and [paper](https://ieeexplore.ieee.org/document/10310658) here.
-- **[Oct. 2023]** One paper about reachable set based risk assessment is accepted by Engineeing. The online version will come soon.
-- **[Oct. 2023]** One paper about continual driver behavior learning is accepted by IEEE T-ITS. Find [code](https://github.com/BIT-Jack/D-GSM) and [paper](https://ieeexplore.ieee.org/document/10299595) here.
-- **[Sep. 2023]** Zirui will give a talk at IEEE ITSC 2023 Workshop with title **Continual Driver Behavior Learning in Interactive Urban Scenarios** (24 September, 2023 @ Bilbao, Bizkaia, Spain).
-- **[Sep. 2023]** Zirui won the IEEE ITSS Young Professionals Travelling Fellowship (2023).
-- **[Aug. 2023]** One paper *Rate GQN* is accepted by IEEE T-ITS. The published version and open source code will be coming soon.
-- **[July. 2023]** Four papers are accepted by ITSC 2023.
-- **[June. 2023]** Our workshop proposal **Cooperative Decision-making for Connected and Automated Vehicles in Intelligent Transportation Systems** is accepted by IEEE ITSC 2023. Welcome your contributions.
-- **[June. 2023]** I start as Researcher in TU Dresden.
-- **[June. 2023]** Our workshop **Social, Interactive and Safe Behaviors for Intelligent Vehicles: Benchmark, Models and Applications** is successfully held at IEEE IV 2023.
-- **[May. 2023]** Our Proceedings of MFTS 2022, where I serve as one of the editors, is online published now, [download here](https://doi.org/10.25368/2023.9). 
-- **[May. 2023]** Two papers are accepted at IEEE T-ITS.
-<!-- - **[Dec. 2022]** The master student, Fanyi Wei, I serve as the daily supervisor, successfully defense the thesis with title **Optimization of Velocity for Eco-Driving using Reinforcement Learning based on Simulation Data of BMW i3**. Congratulations!  -->
-<!-- - **[Dec. 2022]** One paper entitled **Continual Interactive Behavior Learning With Traffic Divergence Measurement: A Dynamic Gradient Scenario Memory Approach** is pre-printed on ArXiv. Find [paper](https://github.com/BIT-Jack/D-GSM) and [code](https://github.com/BIT-Jack/D-GSM) here. -->
-<!-- - **[Dec. 2022]** One paper entitled **Multi-agent Trajectory Prediction in Continuous Scenarios: A Dynamic Memory Enhanced Lifelong Learning approach** is accepted by [TRB annual meeting](https://www.trb.org/AnnualMeeting/AnnualMeeting.aspx). We will give a poster at Vehicle-Highway Automation 2023, Part 3 (Part 1, Session 2228; Part 2, Session 2229). -->
-<!-- - **[Nov. 2022]** One paper related **Multi-stream Information Fusion for Trajectory Prediction in Low-illumination Scenarios** is pre-printed, See [paper](https://arxiv.org/abs/2211.10226) and [code](https://github.com/TommyGong08/MSIF) for details. Welcome star,comments and feedback. -->
-<!-- - **[Nov. 2022]** One paper related **graph reinforcement learning for CAVs in mixed traffic** is pre-printed, See [paper](https://arxiv.org/abs/2211.03005) and [code](https://github.com/Jacklinkk/Graph_CAVs) for details. Welcome star,comments and feedback. -->
-<!-- - **[Nov. 2022]** Our workshop proposal at IEEE IV 2023 titled **Social, Interactive and Safe Behaviors for Intelligent Vehicles: Benchmark, Models and Applications** is officially accepted. [HERE](https://sites.google.com/view/iv2023-social/%E9%A6%96%E9%A1%B5) is the website. We invite many experienced researchers in this topic. Welcome to submit your workshop papers and click the link for detailed information and deadlines. -->
-<!-- - **[Oct. 2022]** I will give a talk with title **Interactive Behavior Modeling for Vulnerable Road Users with Risk-taking Styles in Urban Scenarios: A Heterogeneous Graph Learning Approach** at IEEE ITSC 2022 Workshop **Cooperative  and Automated Driving** -->
-<!-- - **[Oct. 2022]** We give a talk about graph reinforcement learning at IEEE ITSC 2022.  -->
-<!-- - **[Sep. 2022]** Welcome everyone, this is my homepage. You can find my updates here. -->
-
-## Selected publications
+## publications
 
 For the full and newest publications [CLICK HERE](https://scholar.google.com/citations?user=nCHChhsAAAAJ&hl=zh-CN). 
 
