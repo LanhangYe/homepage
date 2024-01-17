@@ -29,7 +29,7 @@ layout: homepage
                           _English in Traffic Engineering_
 
 ## Publications
-External sites：[Web of Science](https://www.webofscience.com/wos/author/record/827842?state=%7B%7D),  [Orcid](https://orcid.org/my-orcid?orcid=0000-0002-4821-1072),  [ResearchGate](https://www.researchgate.net/profile/Lanhang-Ye). 
+**External sites**：[Web of Science](https://www.webofscience.com/wos/author/record/827842?state=%7B%7D),  [Orcid](https://orcid.org/my-orcid?orcid=0000-0002-4821-1072),  [ResearchGate](https://www.researchgate.net/profile/Lanhang-Ye). 
 
 - **Modeling Connected and Autonomous Vehicles in Heterogeneous Traffic Flow**
   <br>
