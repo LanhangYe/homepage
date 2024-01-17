@@ -33,35 +33,35 @@ layout: homepage
 
 - **Modeling Connected and Autonomous Vehicles in Heterogeneous Traffic Flow**
   <br>
- **Lanhang Ye#**, Toshiyuki Yamamoto,
+ **Lanhang Ye<sup>*</sup>**, Toshiyuki Yamamoto,
   <br>
   Physica A: Statistical Mechanics and its Applications 490 (2018): 269-277.
   <br>
   [[PDF](https://www.sciencedirect.com/science/article/pii/S0378437117307392)] 
 - **Impact of Dedicated Lanes for Connected and Autonomous Vehicle on Traffic Flow Throughput**
   <br>
-  **Lanhang Ye#**, Toshiyuki Yamamoto
+  **Lanhang Ye<sup>*</sup>**, Toshiyuki Yamamoto
   <br>
  Physica A: Statistical Mechanics and its Applications 512 (2018): 588-597.
   <br>
   [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0378437118310252)]   
 - **Evaluating the Impact of Connected and Autonomous Vehicles on Traffic Safety**
   <br>
-  **Lanhang Ye#**, Toshiyuki Yamamoto
+  **Lanhang Ye<sup>*</sup>**, Toshiyuki Yamamoto
   <br>
    Physica A: Statistical Mechanics and its Applications 526, 121009.
   <br>
   [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0378437119306181)]
 - **Heterogeneous Traffic Flow Dynamics under Various Penetration Rates of Connected and Autonomous Vehicle**
   <br>
-  **Lanhang Ye#**, Toshiyuki Yamamoto, Takayuki Morikawa
+  **Lanhang Ye<sup>*</sup>**, Toshiyuki Yamamoto, Takayuki Morikawa
   <br>
   21st International Conference on Intelligent Transportation Systems (ITSC), Hawaii, USA, 2018.
   <br>
   [[PDF](https://ieeexplore.ieee.org/abstract/document/8569975)]
 - **Bayesian Mixture Model to Estimate Freeway Travel Time under Low-Frequency Probe Data**
   <br>
-  Hyungjoo Kim#, **Lanhang Ye**
+  Hyungjoo Kim<sup>*</sup>, **Lanhang Ye**
   <br>
   Applied Sciences 12(2022): 6483.
   <br>
