@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-  Lanhang Ye obtained his Ph.D. degree from Nagoya University (NU), Japan, in 2019. His primary research interest concentrates on the study of **_traffic systems integrating emerging automotive technologies_**. He focuses on developing microscopic traffic flow models that incorporate these technologies to model potential future scenarios, evaluating the potential impact of these technologies on future traffic systems, providing management recommendations for their better integration into the current traffic system, and exploring traffic flow theory in the era of Connected and Automated Vehicles. Currently, he works as a researcher at the Institute of Materials and Systems for Sustainability at Nagoya University, Japan.
+  **Lanhang Ye** obtained his Ph.D. degree from **Nagoya University** (NU), Japan, in 2019. His primary research interest concentrates on the study of **_traffic systems integrating emerging automotive technologies_**. He focuses on developing microscopic traffic flow models that incorporate these technologies to model potential future scenarios, evaluating the potential impact of these technologies on future traffic systems, providing management recommendations for their better integration into the current traffic system, and exploring traffic flow theory in the era of Connected and Automated Vehicles. Currently, he works as a researcher at the Institute of Materials and Systems for Sustainability at Nagoya University, Japan.
 
 ## Research Interests
 
@@ -21,9 +21,9 @@ layout: homepage
 
 ## Professional Experience
 
-- 2023.04~           Researcher at Institute of Materials and Systems for Sustainability, Nagoya University
-- 2023.03~2023.04    Researcher at Global Research Institute for Mobility, Nagoya University, Japan
-- 2020.01~2022.12     Lecturer at Department of Transportation, Zhejiang Normal University, China
+- 2023.04~           Researcher at Institute of Materials and Systems for Sustainability, **Nagoya University**
+- 2023.03~2023.04    Researcher at Global Research Institute for Mobility, **Nagoya University**, Japan
+- 2020.01~2022.12     Lecturer at Department of Transportation, **Zhejiang Normal University**, China
   -   Undergraduate courses: _Intelligent transportation system_,
                           _Matlab Fundamentals and Applications_,
                           _English in Traffic Engineering_
