@@ -82,8 +82,9 @@ layout: homepage
 - IEEE Transactions on Intelligent Transportation Systems
 - IEEE Transactions on Intelligent Vehicles
 - IEEE Transactions on Knowledge and Data Engineering
-- IEEE Intelligent Transportation Systems Magazine
+- IEEE Transactions on Vehicular Technology
 - IEEE Transactions on Transportation Electrification
+- IEEE Intelligent Transportation Systems Magazine
 - IEEE Vehicular Technology Magazine
 - IEEE Systems Journal
 - Expert Systems with Applications
