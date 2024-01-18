@@ -33,7 +33,7 @@ layout: homepage
 
 - **Modeling Connected and Autonomous Vehicles in Heterogeneous Traffic Flow**
   <br>
- **Lanhang Ye<sup>*</sup>**, Toshiyuki Yamamoto,
+ **Lanhang Ye<sup>*</sup>**, Toshiyuki Yamamoto
   <br>
   Physica A: Statistical Mechanics and its Applications 490 (2018): 269-277.
   <br>
