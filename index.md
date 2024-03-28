@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-  **Lanhang Ye** obtained his Ph.D. degree from **Nagoya University** (NU), Japan, in 2019. His primary research interest concentrates on the study of **_traffic systems integrating emerging mobility technologies_**. He focuses on developing microscopic traffic flow models that incorporate these technologies to model potential future scenarios, evaluating the potential impact of these technologies on future traffic systems, providing management recommendations for their better integration into the current traffic system, and exploring traffic flow theory in the era of Connected and Automated Vehicles. Currently, he works as a researcher at the Institute of Materials and Systems for Sustainability at Nagoya University, Japan.
+  **Lanhang Ye** obtained his Ph.D. degree from **Nagoya University** (NU), Japan, in 2019. His primary research concentrates on **_Envisioning Transport Systems Integrating Emerging Mobility Technologies_**. He focuses on developing microscopic traffic flow models that incorporate mobility technologies to simulate potential future scenarios, evaluating the potential impact of these technologies on future traffic systems, providing management recommendations for their better integration into the current traffic system, and exploring traffic flow theory in the era of Connected and Automated Vehicles. Currently, he is working as a researcher at the Institute of Materials and Systems for Sustainability at Nagoya University, Japan.
 
 ## Research Interests
 
@@ -68,10 +68,11 @@ layout: homepage
   [[PDF](https://www.mdpi.com/2076-3417/12/13/6483)]
   
 ## Presentations
-- **Modeling connected and autonomous vehicles in heterogeneous traffic flow**  Traffic & Granular Flow, Washington, USA, 2017.
-- **Evaluation of safety with mixed traffic of connected autonomous vehicles and conventional vehicles** 57th Infrastructure Planning Conference, Tokyo, Japan, 2018.
-- **Heterogeneous Traffic flow dynamics under various penetration rates of connected and autonomous vehicle** 21st IEEE International Conference on Intelligent Transportation Systems, Hawaii, USA, 2018.
+- **Modeling Connected and Autonomous Vehicles in Heterogeneous Traffic Flow**  Traffic & Granular Flow, Washington, USA, 2017.
+- **Evaluation of Safety with Mixed Traffic of Connected Autonomous Vehicles and Conventional Vehicles** 57th Infrastructure Planning Conference, Tokyo, Japan, 2018.
+- **Heterogeneous Traffic flow dynamics under Various Penetration Rates of Connected and Autonomous vehicles** 21st IEEE International Conference on Intelligent Transportation Systems, Hawaii, USA, 2018.
 - **Integrating Personal Rapid Transit into Existing Traffic Systems: Feasibility, Simulation, and Optimization** International Conference on Materials and Systems for Sustainability, Nagoya, Japan, 2023.
+- **Concept and Simulation of Door-to-door Personal Rapid Transit System** International Symposium on Sustainable Urban Mobility through Modular and Integrated Transport System, Nagoya, Japan, 2024.
 
 ## Academic services
 ### Reviewer
