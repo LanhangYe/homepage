@@ -68,11 +68,21 @@ layout: homepage
   [[PDF](https://www.mdpi.com/2076-3417/12/13/6483)]
   
 ## Presentations
-- **Modeling Connected and Autonomous Vehicles in Heterogeneous Traffic Flow**  Traffic & Granular Flow, Washington, USA, 2017.
-- **Evaluation of Safety with Mixed Traffic of Connected Autonomous Vehicles and Conventional Vehicles** 57th Infrastructure Planning Conference, Tokyo, Japan, 2018.
-- **Heterogeneous Traffic flow dynamics under Various Penetration Rates of Connected and Autonomous vehicles** 21st IEEE International Conference on Intelligent Transportation Systems, Hawaii, USA, 2018.
-- **Integrating Personal Rapid Transit into Existing Traffic Systems: Feasibility, Simulation, and Optimization** International Conference on Materials and Systems for Sustainability, Nagoya, Japan, 2023.
-- **Concept and Simulation of Door-to-door Personal Rapid Transit System** International Symposium on Sustainable Urban Mobility through Modular and Integrated Transport System, Nagoya, Japan, 2024.
+- **Modeling Connected and Autonomous Vehicles in Heterogeneous Traffic Flow**
+  <br>
+   Traffic & Granular Flow, Washington, USA, 2017.
+- **Evaluation of Safety with Mixed Traffic of Connected Autonomous Vehicles and Conventional Vehicles**
+  <br>
+  57th Infrastructure Planning Conference, Tokyo, Japan, 2018.
+- **Heterogeneous Traffic flow dynamics under Various Penetration Rates of Connected and Autonomous vehicles**
+  <br>
+  21st IEEE International Conference on Intelligent Transportation Systems, Hawaii, USA, 2018.
+- **Integrating Personal Rapid Transit into Existing Traffic Systems: Feasibility, Simulation, and Optimization**
+  <br>
+  International Conference on Materials and Systems for Sustainability, Nagoya, Japan, 2023.
+- **Concept and Simulation of Door-to-door Personal Rapid Transit System**
+  <br>
+  International Symposium on Sustainable Urban Mobility through Modular and Integrated Transport System, Nagoya, Japan, 2024.
 
 ## Academic services
 ### Reviewer
