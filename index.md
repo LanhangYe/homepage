@@ -35,21 +35,21 @@ layout: homepage
   <br>
  **Lanhang Ye<sup>*</sup>**, Toshiyuki Yamamoto
   <br>
-  Physica A: Statistical Mechanics and its Applications 490 (2018): 269-277.
+  Physica A: Statistical Mechanics and its Applications 490 (2018):269-277.
   <br>
   [[PDF](https://www.sciencedirect.com/science/article/pii/S0378437117307392)] 
 - **Impact of Dedicated Lanes for Connected and Autonomous Vehicle on Traffic Flow Throughput**
   <br>
   **Lanhang Ye<sup>*</sup>**, Toshiyuki Yamamoto
   <br>
- Physica A: Statistical Mechanics and its Applications 512 (2018): 588-597.
+ Physica A: Statistical Mechanics and its Applications 512 (2018):588-597.
   <br>
   [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0378437118310252)]   
 - **Evaluating the Impact of Connected and Autonomous Vehicles on Traffic Safety**
   <br>
   **Lanhang Ye<sup>*</sup>**, Toshiyuki Yamamoto
   <br>
-   Physica A: Statistical Mechanics and its Applications 526, 121009.
+   Physica A: Statistical Mechanics and its Applications 526(2019):121009.
   <br>
   [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0378437119306181)]
 - **Heterogeneous Traffic Flow Dynamics under Various Penetration Rates of Connected and Autonomous Vehicle**
