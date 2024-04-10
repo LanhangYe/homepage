@@ -101,6 +101,7 @@ layout: homepage
 - Expert Systems with Applications
 - Engineering Applications of Artificial Intelligence  
 - Simulation Modelling Practice and Theory
+- Journal of Intelligent Transportation Systems
 - Transportmetrica A: Transport Science  
 - Transportmetrica B: Transport Dynamics
 - IET Intelligent Transport Systems
