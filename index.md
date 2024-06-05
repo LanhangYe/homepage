@@ -98,6 +98,7 @@ layout: homepage
 - IEEE Intelligent Transportation Systems Magazine
 - IEEE Vehicular Technology Magazine
 - IEEE Systems Journal
+- Energy
 - Expert Systems with Applications
 - Engineering Applications of Artificial Intelligence  
 - Simulation Modelling Practice and Theory
