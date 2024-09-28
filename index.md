@@ -59,13 +59,13 @@ layout: homepage
   21st International Conference on Intelligent Transportation Systems (ITSC), Hawaii, USA, 2018.
   <br>
   [[PDF](https://ieeexplore.ieee.org/abstract/document/8569975)]
-- **Bayesian Mixture Model to Estimate Freeway Travel Time under Low-Frequency Probe Data**
+- **Modular Autonomous Vehicle in Heterogeneous Traffic Flow: Modeling, Simulation, and Implication**
   <br>
-  Hyungjoo Kim<sup>*</sup>, **Lanhang Ye**
+  **Lanhang Ye<sup>*</sup>**, Toshiyuki Yamamoto
   <br>
-  Applied Sciences 12(2022): 6483.
+  arXiv:2409.17945
   <br>
-  [[PDF](https://www.mdpi.com/2076-3417/12/13/6483)]
+  [[PDF](https://arxiv.org/abs/2409.17945)]
   
 ## Presentations
 - **Modeling Connected and Autonomous Vehicles in Heterogeneous Traffic Flow**
