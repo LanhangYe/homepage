@@ -86,42 +86,72 @@ layout: homepage
 
 ## Academic services
 ### Reviewer
--Physica A: Statistical Mechanics and Its Applications
+- Physica A: Statistical Mechanics and Its Applications
 <br>
--IET Intelligent Transport Systems
+- IET Intelligent Transport Systems
 <br>
--Journal of Advanced Transportation
--Accident Analysis & Prevention
--Transportmetrica A: Transport Science
--IEEE Transactions on Intelligent Transportation Systems
--Expert Systems with Applications
--IEEE Access
--Energy
--Simulation Modelling Practice and Theory
--Transport Policy
--Applied Mathematical Modelling
--Canadian Journal of Civil Engineering
--Chaos, Solitons & Fractals
--Frontiers of Engineering Management
--IEEE Transactions on Knowledge and Data Engineering
--IEEE Transactions on Vehicular Technology
--Journal of Intelligent Transportation Systems
--Transportmetrica B: Transport Dynamics
--Advances in Civil Engineering
--Asian Transport Studies
--Engineering Applications of Artificial Intelligence
--IEEE Intelligent Transportation Systems Magazine
--IEEE International Conference on Intelligent Transportation Systems
--IEEE Systems Journal
--IEEE Transactions on Intelligent Vehicles
--IEEE Transactions on Transportation Electrification
--IEEE Vehicular Technology Magazine
--Journal of Traffic and Transportation Engineering (English Edition)
--Journal of Transportation Safety & Security
--Modern Physics Letters B
--Transportation Letters: The International Journal of Transportation Research
--Transportation Research Board Annual Meeting
--Transportation Research Part B: Methodological
+- Journal of Advanced Transportation
+<br>
+- Accident Analysis & Prevention
+<br>
+- Transportmetrica A: Transport Science
+<br>
+- IEEE Transactions on Intelligent Transportation Systems
+<br>
+- Expert Systems with Applications
+<br>
+- IEEE Access
+<br>
+- Energy
+<br>
+- Simulation Modelling Practice and Theory
+<br>
+- Transport Policy
+<br>
+- Applied Mathematical Modelling
+<br>
+- Canadian Journal of Civil Engineering
+<br>
+- Chaos, Solitons & Fractals
+<br>
+- Frontiers of Engineering Management
+<br>
+- IEEE Transactions on Knowledge and Data Engineering
+<br>
+- IEEE Transactions on Vehicular Technology
+<br>
+- Journal of Intelligent Transportation Systems
+<br>
+- Transportmetrica B: Transport Dynamics
+<br>
+- Advances in Civil Engineering
+<br>
+- Asian Transport Studies
+<br>
+- Engineering Applications of Artificial Intelligence
+<br>
+- IEEE Intelligent Transportation Systems Magazine
+<br>
+- IEEE International Conference on Intelligent Transportation Systems
+<br>
+- IEEE Systems Journal
+<br>
+- IEEE Transactions on Intelligent Vehicles
+<br>
+- IEEE Transactions on Transportation Electrification
+<br>
+- IEEE Vehicular Technology Magazine
+<br>
+- Journal of Traffic and Transportation Engineering (English Edition)
+<br>
+- Journal of Transportation Safety & Security
+<br>
+- Modern Physics Letters B
+<br>
+- Transportation Letters: The International Journal of Transportation Research
+<br>
+- Transportation Research Board Annual Meeting
+- Transportation Research Part B: Methodological
 
 
 
