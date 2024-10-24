@@ -120,3 +120,4 @@ layout: homepage
 - Transportation Letters: The International Journal of Transportation Research
 - Transportation Research Board Annual Meeting
 - Transportation Research Part B: Methodological
+- Transportation Research Record
