@@ -9,7 +9,8 @@ His work involves:
  - Developing microscopic traffic flow models that incorporate new mobility technologies to simulate potential future scenarios;
  - Evaluating the potential impacts of emerging mobility technologies on traffic systems;
  - Providing recommendations for effectively integrating these advancements into current infrastructures;
- - Investigating traffic flow theory in the era of Connected and Autonomous Vehicles (CAVs). 
+ - Investigating traffic flow theory in the era of Connected and Autonomous Vehicles (CAVs).
+
 He currently serves as a researcher at the Institute of Materials and Systems for Sustainability at Nagoya University, Japan.
 
 ## Research Interests
