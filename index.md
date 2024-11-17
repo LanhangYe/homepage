@@ -92,6 +92,9 @@ layout: homepage
 - **Concept and Simulation of Door-to-door Personal Rapid Transit System**
   <br>
   International Symposium on Sustainable Urban Mobility through Modular and Integrated Transport System, Nagoya, Japan, 2024.
+- **Integrating Personal Rapid Transit System at Signalized Intersections: Designing, Simulation, and Implication**
+  <br>
+  70th Infrastructure Planning Conference, Okayama, Japan, 2024.
 
 ## Academic services
 ### Reviewer
