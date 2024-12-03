@@ -121,7 +121,6 @@ layout: homepage
 - Asian Transport Studies
 - Engineering Applications of Artificial Intelligence
 - IEEE Intelligent Transportation Systems Magazine
-- IEEE International Conference on Intelligent Transportation Systems
 - IEEE Systems Journal
 - IEEE Transactions on Intelligent Vehicles
 - IEEE Transactions on Transportation Electrification
@@ -130,6 +129,8 @@ layout: homepage
 - Journal of Transportation Safety & Security
 - Modern Physics Letters B
 - Transportation Letters: The International Journal of Transportation Research
-- Transportation Research Board Annual Meeting
 - Transportation Research Part B: Methodological
 - Transportation Research Record
+- Transportation Research Board Annual Meeting
+- IEEE International Conference on Intelligent Transportation Systems
+- COTA International Conference of Transportation Professionals
