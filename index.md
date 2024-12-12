@@ -95,6 +95,12 @@ layout: homepage
 - **Integrating Personal Rapid Transit System at Signalized Intersections: Designing, Simulation, and Implication**
   <br>
   70th Infrastructure Planning Conference, Okayama, Japan, 2024.
+- **Modular Autonomous Vehicle in Heterogeneous Traffic Flow: Modeling, Simulation, and Implication**
+  <br>
+  The 28th International Conference of Hong Kong Society for Transportation Studies, Hong Kong, 2024.
+- **Integrating Personal Rapid Transit System at Signalized Intersections: Designing, Simulation, and Implication**
+  <br>
+  The 28th International Conference of Hong Kong Society for Transportation Studies, Hong Kong, 2024.
 
 ## Academic services
 ### Reviewer
