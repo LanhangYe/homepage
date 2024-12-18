@@ -137,6 +137,7 @@ layout: homepage
 - Transportation Letters: The International Journal of Transportation Research
 - Transportation Research Part B: Methodological
 - Transportation Research Record
+- Internet of Things
 - Transportation Research Board Annual Meeting
 - IEEE International Conference on Intelligent Transportation Systems
 - COTA International Conference of Transportation Professionals
