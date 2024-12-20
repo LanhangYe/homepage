@@ -4,20 +4,21 @@ layout: homepage
 
 ## Biography
 
-  **Lanhang Ye**  holds a doctoral degree in engineering from **Nagoya University**. His primary research concentrates on **_Envisioning Transport Systems Integrating Emerging Mobility Technologies_**.
+  **Lanhang Ye**  holds a doctoral degree in engineering from **Nagoya University**, Japan. His research centers on **_Envisioning Advanced Transport Systems that Integrate Emerging Mobility Technologies_**.  
   <br>
   His work involves:
   <br>
- - Developing microscopic traffic flow models that incorporate new mobility technologies to simulate potential future scenarios;
- - Evaluating the potential impacts of emerging mobility technologies on traffic systems;
- - Providing recommendations for effectively integrating these advancements into current infrastructures;
- - Investigating traffic flow theory in the era of Connected and Autonomous Vehicles (CAVs).
+ - **Developing microscopic traffic flow models** to simulate future scenarios incorporating new mobility technologies;
+ - **Evaluating the impacts** of these technologies on traffic systems;
+ - **Designing strategies** for seamless integration of these advancements into existing infrastructure;
+ - **Advancing traffic flow theory** to address the challenges and opportunities presented by emerging mobility trends.
 
-  He currently serves as a researcher at the Institute of Materials and Systems for Sustainability at Nagoya University, Japan.
+  He is currently a researcher at the Institute of Materials and Systems for Sustainability at Nagoya University, Japan.
 
 ## Research Interests
 
-- **Connected and Autonomous Vehicle** 
+- **Connected and Autonomous Vehicle**
+- **Modular Autonomous Vehicle**
 - **Traffic Flow Modelling**
 - **Traffic Simulation**
 - **Sustainable Mobility**
