@@ -5,9 +5,7 @@ layout: homepage
 ## Biography
 
   **Lanhang Ye**  holds a doctoral degree in engineering from **Nagoya University**, Japan. His research centers on **_Envisioning Advanced Transport Systems that Integrate Emerging Mobility Technologies_**.  
-  <br>
   His work involves:
-  <br>
  - **Developing microscopic traffic flow models** to simulate future scenarios incorporating new mobility technologies;
  - **Evaluating the impacts** of these technologies on traffic systems;
  - **Designing strategies** for seamless integration of these advancements into existing infrastructure;
