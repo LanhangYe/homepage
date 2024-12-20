@@ -11,7 +11,7 @@ layout: homepage
  - **Designing strategies** for seamless integration of these advancements into existing infrastructure;
  - **Advancing traffic flow theory** to address the challenges and opportunities presented by emerging mobility trends.
 
-  He is currently a researcher at the Institute of Materials and Systems for Sustainability at Nagoya University, Japan.
+  He currently serves as a researcher at the Institute of Materials and Systems for Sustainability at **Nagoya University**, **Japan**.
 
 ## Research Interests
 
