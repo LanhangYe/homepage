@@ -74,7 +74,7 @@ layout: homepage
   arXiv:2409.17945
   <br>
   [[PDF](https://arxiv.org/abs/2409.17945)]
-  - **Exploring Modular Mobility: Industry Advancements, Research Trends, and Future Directions on Modular Autonomous Vehicles**
+- **Exploring Modular Mobility: Industry Advancements, Research Trends, and Future Directions on Modular Autonomous Vehicles**
   <br>
   **Lanhang Ye<sup>*</sup>**, Toshiyuki Yamamoto
   <br>
