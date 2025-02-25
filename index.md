@@ -36,6 +36,12 @@ layout: homepage
                           _Matlab Fundamentals and Applications_,
                           _English in Traffic Engineering_
 
+## Professional skills
+- **Traffic Flow Modeling**: Developing microscopic traffic flow models to simulate and analyze transportation systems.
+- **Traffic Data Analysis**: Processing and interpreting traffic data to assess mobility patterns and system performance.
+- **Traffic Signal Control**: Optimizing and evaluating traffic signal operations to improve efficiency and safety.
+
+
 ## Publications
 **External sites**：[Web of Science](https://www.webofscience.com/wos/author/record/827842?state=%7B%7D),  [Orcid](https://orcid.org/0000-0002-4821-1072),  [ResearchGate](https://www.researchgate.net/profile/Lanhang-Ye). 
 
@@ -144,6 +150,7 @@ layout: homepage
 - Transportation Research Part B: Methodological
 - Transportation Research Record
 - Internet of Things
+- Alexandria Engineering Journal
 - Transportation Research Board Annual Meeting
 - IEEE International Conference on Intelligent Transportation Systems
 - COTA International Conference of Transportation Professionals
