@@ -29,8 +29,8 @@ layout: homepage
 
 ## Professional Experience
 
-- 2023.04~           Researcher at Institute of Materials and Systems for Sustainability, **Nagoya University**
-- 2023.03~2023.04    Researcher at Global Research Institute for Mobility, Nagoya University, Japan
+- 2023.04~           Researcher at Institute of Materials and Systems for Sustainability, **Nagoya University**, Japan
+- 2023.03~2023.04    Researcher at Global Research Institute for Mobility in Society, **Nagoya University**, Japan
 - 2020.01~2022.12     Lecturer at Department of Transportation, **Zhejiang Normal University**, China
   -   Undergraduate courses: _Intelligent transportation system_,
                           _Matlab Fundamentals and Applications_,
