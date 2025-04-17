@@ -151,6 +151,7 @@ layout: homepage
 - Transportation Research Record
 - Internet of Things
 - Alexandria Engineering Journal
+- The Journal of Supercomputing
 - Transportation Research Board Annual Meeting
 - IEEE International Conference on Intelligent Transportation Systems
 - COTA International Conference of Transportation Professionals
