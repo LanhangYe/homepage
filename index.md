@@ -91,7 +91,7 @@ layout: homepage
   <br>
   **Lanhang Ye<sup>*</sup>**, Toshiyuki Yamamoto, Takayuki Anamoto, Kazuyuki Umiguchi, Takayuki Morikawa
   <br>
-  Asian Transport Studies
+  Asian Transport Studies 11 (2025):100168
   <br>
   [[PDF](https://www.sciencedirect.com/science/article/pii/S2185556025000124)]
   
