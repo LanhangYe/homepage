@@ -87,7 +87,14 @@ layout: homepage
   arXiv:2412.17885
   <br>
   [[PDF](http://arxiv.org/abs/2412.17885)]
-
+- **Integrating personal rapid transit system at signalized intersections: Designing, simulation, and implication**
+  <br>
+  **Lanhang Ye<sup>*</sup>**, Toshiyuki Yamamoto, Takayuki Anamoto, Kazuyuki Umiguchi, Takayuki Morikawa
+  <br>
+  Asian Transport Studies
+  <br>
+  [[PDF](https://www.sciencedirect.com/science/article/pii/S2185556025000124)]
+  
 ## Presentations
 - **Modeling Connected and Autonomous Vehicles in Heterogeneous Traffic Flow**
   <br>
@@ -148,6 +155,7 @@ layout: homepage
 - Modern Physics Letters B
 - Transportation Letters: The International Journal of Transportation Research
 - Transportation Research Part B: Methodological
+- Transportation Research Interdisciplinary Perspectives
 - Transportation Research Record
 - Internet of Things
 - Alexandria Engineering Journal
