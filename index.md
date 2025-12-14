@@ -120,6 +120,9 @@ layout: homepage
 - **Integrating Personal Rapid Transit System at Signalized Intersections: Designing, Simulation, and Implication**
   <br>
   The 28th International Conference of Hong Kong Society for Transportation Studies, Hong Kong, 2024.
+- **Redesigning Public Transit for Aging Societies: A Case Study of Autonomous Feeder Systems Based on Personal Rapid Transit**
+  <br>
+  International Conference on Materials and Systems for Sustainability, Nagoya, Japan, 2025.
 
 ## Academic services
 ### Reviewer
