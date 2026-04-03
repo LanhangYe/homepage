@@ -11,12 +11,13 @@ layout: homepage
  - **Designing strategies** for seamless integration of these advancements into existing infrastructure;
  - **Advancing traffic flow theory** to address the challenges and opportunities presented by emerging mobility trends.
 
-**_Behold the snow drifting from the ivory tower—_**
-**_Each flake a fading soul, loosened from its height.—_**
-**_And I am no different, just one among them,—_**
-**_Falling in quiet grace,—_**
-**_Dissolving, pure and unseen,—_**
-**_Into the waiting earth.--2026.04.04 —_**
+ - **_Behold the snow drifting from the ivory tower—_**
+ - **_each flake a fading soul, loosened from its height.—_**
+ - **_and I am no different, just one among them,—_**
+ - **_falling in quiet grace,—_**
+ - **_Dissolving, pure and unseen,—_**
+ - **_into the waiting earth.—_**
+ - **_--2026.04.04 —_**
 
 ## Research Interests
 
