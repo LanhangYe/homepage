@@ -18,7 +18,7 @@ layout: homepage
  - **_falling in quiet grace,—_**
  - **_Dissolving, pure and unseen,—_**
  - **_into the waiting earth.—_**
- - **_--2026.04.04 —_**
+ - **_--2026.04 —_**
 
 ## Research Interests
 
