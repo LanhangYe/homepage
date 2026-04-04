@@ -18,7 +18,7 @@ layout: homepage
    - **_falling in quiet grace,_**
    - **_Dissolving, pure and unseen,_**
    - **_into the waiting earth._**
-   - **_--2026.04_**
+   - **_《The Leave of Absence》--2026.04_**
 
 ## Research Interests
 
