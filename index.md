@@ -11,15 +11,6 @@ layout: homepage
  - **Designing strategies** for seamless integration of these advancements into existing infrastructure;
  - **Advancing traffic flow theory** to address the challenges and opportunities presented by emerging mobility trends.
 
-
-   - **_Behold the snow drifting from the ivory tower—_**
-   - **_each flake a fading soul, loosened from its height._**
-   - **_and I am no different, just one among them,_**
-   - **_falling in quiet grace,_**
-   - **_Dissolving, pure and unseen,_**
-   - **_into the waiting earth._**
-   - **_《The Leave of Absence》--2026.04_**
-
 ## Research Interests
 
 - **Connected and Autonomous Vehicle**
@@ -174,3 +165,13 @@ layout: homepage
 - IEEE International Conference on Intelligent Transportation Systems
 - COTA International Conference of Transportation Professionals
 - Transport Research Arena
+
+## Notes
+
+   - **_Behold the snow drifting from the ivory tower—_**
+   - **_each flake a fading soul, loosened from its height._**
+   - **_and I am no different, just one among them,_**
+   - **_falling in quiet grace,_**
+   - **_Dissolving, pure and unseen,_**
+   - **_into the waiting earth._**
+   - **_《The Leave of Absence》--2026.04_**
