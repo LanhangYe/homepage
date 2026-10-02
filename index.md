@@ -82,7 +82,7 @@ layout: homepage
   <br>
   **Lanhang Ye<sup>*</sup>**, Toshiyuki Yamamoto
   <br>
-  arXiv:2412.17885
+  Research in Transportation Business & Management (2026)
   <br>
   [[PDF](http://arxiv.org/abs/2412.17885)]
 - **Integrating personal rapid transit system at signalized intersections: Designing, simulation, and implication**
