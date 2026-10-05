@@ -89,7 +89,7 @@ layout: homepage
   <br>
   **Lanhang Ye<sup>*</sup>**, Toshiyuki Yamamoto
   <br>
-  Research in Transportation Business & Management (2026)
+  Research in Transportation Business & Management 69C (2026):101901
   <br>
   [[PDF](http://arxiv.org/abs/2412.17885)]
   
