@@ -89,9 +89,9 @@ layout: homepage
   <br>
   **Lanhang Ye<sup>*</sup>**, Toshiyuki Yamamoto
   <br>
-  Research in Transportation Business & Management 69C (2026):101901
+  Research in Transportation Business & Management 69(2026):101901
   <br>
-  [[PDF](http://arxiv.org/abs/2412.17885)]
+  [[PDF](https://authors.elsevier.com/a/1nuOV_oGmYKYZp)]
   
 ## Presentations
 - **Modeling Connected and Autonomous Vehicles in Heterogeneous Traffic Flow**
